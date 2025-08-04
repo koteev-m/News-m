@@ -16,6 +16,7 @@ dependencies {
     implementation("io.ktor:ktor-client-cio:2.3.7")
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.2")
     implementation("com.prof18.rssparser:rssparser:6.0.8")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3")
     implementation("org.jetbrains.exposed:exposed-core:0.53.0")
     implementation("org.jetbrains.exposed:exposed-jdbc:0.53.0")
     implementation("org.xerial:sqlite-jdbc:3.50.3.0")

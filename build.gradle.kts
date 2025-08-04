@@ -1,8 +1,8 @@
 plugins {
-    kotlin("jvm") version "2.1.20"
+    kotlin("jvm") version "1.9.24"
 }
 
-group = "org.example"
+group = "news.poster"
 version = "1.0-SNAPSHOT"
 
 repositories {
